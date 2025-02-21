@@ -11,6 +11,6 @@ package com.mycompany.aplicacionfuncional;
 public class AplicacionFuncional {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("esto es una aplicacion funcional");
     }
 }
